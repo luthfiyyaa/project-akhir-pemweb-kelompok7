@@ -82,7 +82,11 @@
             <input type="text" placeholder="Your Name">
             <input type="text" placeholder="Guest/Admin Code">
             <button>Log In</button>
+            <?php
+            header("Location: welcome-guest.php");
+            ?>
         </div>
     </div>
 </body>
 </html>
+

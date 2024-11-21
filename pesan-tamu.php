@@ -96,7 +96,7 @@
             <div class="attachment">
                 <input type="text" id="attachment" name="attachment" placeholder="Send your moment!">
             </div>
-            <button type="submit" class="submit-button">send message</button>
+            <button type="submit" class="submit-button"><a href="thanks.php">send message</a>
         </form>
     </div>
 </body>

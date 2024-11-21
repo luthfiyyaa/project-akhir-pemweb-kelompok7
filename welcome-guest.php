@@ -63,7 +63,7 @@
         <h1>Welcome, Guest!</h1>
         <p>Send message to the bride and groom!<br>Congratulate them and share your best moment!</p>
         <div class="button">
-            <button>send message</button>
+            <button> <a href="pesan-tamu.php">send message</a>
         </div>
     </div>
 </body>

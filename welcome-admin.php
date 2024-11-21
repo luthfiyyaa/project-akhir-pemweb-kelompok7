@@ -77,7 +77,7 @@
         <input type="text" id="name1" placeholder=" ">
         <label for="message1">Message:</label>
         <textarea id="message1" placeholder=" "></textarea>
-        <button class="reply-button">Reply</button>
+        <button class="reply-button"> <a href="balasan.php">Reply</a>
     </div>
     <div class="message-box">
         <label for="name2">Name:</label>

@@ -92,7 +92,7 @@
             <textarea id="message" name="message"></textarea>
         </div>
         <div class="submit-btn">
-            <button type="submit">Send Reply</button>
+            <button type="submit"> <a href="welcome-admin.php">Send Reply</a>
         </div>
     </div>
 </body>

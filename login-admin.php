@@ -82,6 +82,9 @@
             <input type="text" placeholder="Your Name">
             <input type="text" placeholder="Guest/Admin Code">
             <button>Log In</button>
+            <?php
+            header("Location: welcome-admin.php");
+            ?>
         </div>
     </div>
 </body>
